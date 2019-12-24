@@ -2,4 +2,8 @@
 
 bagdash
 
+<<<<<<< HEAD
 Jarkynai
+=======
+bagdash2
+>>>>>>> d788149a9f9b4237ae254a43186ea618f84cb130
